@@ -191,9 +191,10 @@ bottom:264px;
 }
 
 #left-arrow{
-position:absolute;
+position:relative;
 top:897px;
 left:32px;
+
 }
 
 #right-arrow{
