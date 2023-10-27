@@ -1,0 +1,220 @@
+body {
+    background-color: #5B6E3A;
+    font-family: 'Sofia-Sans',sans-serif;
+    color: #FFF;
+    width: 1440px;
+    height: 1024px;
+}
+
+#navbar {
+
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    flex-shrink: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    overflow: hidden;
+    
+    }
+    
+    li a {
+        position: relative;
+        top:48px;
+        float: right;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none; 
+        color: #FFF;
+        font-size: 20px;
+        
+    }
+    
+    .line-under-navbar{
+        width: 1445px;
+        height: 1px;
+        flex-shrink: 0;
+        background: #818181;
+        position:absolute;
+        bottom: 921px;
+        top: 102px;
+    }
+    
+    .text-background{
+        position: absolute;
+        left: 242px;
+        bottom: 157px;
+        background: #2D371D;
+        width: 1198px;
+        height: 764px;
+        top: 103px;
+       }
+
+       .horizontal-line{
+        position: absolute;
+        width: 6px;
+        height: 835px;
+        background: white; 
+        left: 235px;
+        right: 103px;
+        top: 102px;
+    }
+
+    .pillar{
+        position: absolute;
+        width: 96px;
+        height: 649px;
+        flex-shrink: 0;
+        background: #1E1E1E;
+        top: 111px;
+        left: 132px;
+        bottom:264px;
+        }
+
+        .text-background{
+            position: absolute;
+            left: 242px;
+            bottom: 157px;
+            background: #2D371D;
+            width: 720px;
+            height: 766px;
+            top: 103px;
+           }
+
+           #Muzee-Scheveningen{
+            position: absolute;
+            top:2px;
+            left:116px;
+            bottom:849px;
+            right:96px;
+            font-size: 36px;
+            font-style: normal;
+           font-weight: 600;
+           line-height: normal;
+           color: #FFF;
+           }
+
+           #est-1901{
+             position:absolute;
+             top:212px;
+             left:47px;
+             bottom:606px;
+             right:1199px;
+           }
+
+           #artifacts{
+           position:absolute;
+           top:432px;
+             left:47px;
+             bottom:553px;
+             right:1182px;
+           }
+
+           #programs{
+            position:absolute;
+            top:645px;
+             left:58px;
+             bottom:305px;
+             right:1193px;
+           }
+
+
+           .est-1901-info{
+            position:absolute;
+            top:109px;
+             left:34px;
+             bottom:557px;
+             right:9px;
+             width: 677px;
+            height: 100px;
+            flex-shrink: 0;
+           }
+
+           .artifacts-info{
+            position:absolute;
+            top:203px;
+             left:34px;
+             bottom:223px;
+             right:62px;
+             width: 624px;
+            height: 340px;
+            flex-shrink: 0;
+           }
+
+           .programs-info{
+            position:absolute;
+            top:579px;
+             left:25px;
+             bottom:77px;
+             right:505px;
+             width: 669px;
+
+           }
+           
+           .museum-info{
+           position:absolute;
+           top:710px;
+           left: 1027px;
+           bottom:292px;
+           right: 100px;
+            width: 350px;
+            height: 14px;
+            flex-shrink: 0;
+           }
+
+
+           .surfer-board{
+            position:absolute;
+            top:451px;
+           left: 961px;
+           bottom:346px;
+           right: 150px;
+           width: 328.004px;
+           height: 225.981px;
+           flex-shrink: 0;
+           }
+
+           .boats{
+            position:absolute;
+            top:251px;
+           left: 1080px;
+           bottom:547px;
+           right: 78px;
+           width: 281.058px;
+           height: 225.98px;
+           flex-shrink: 0;
+
+           }
+
+           .visserij{
+            position:absolute;
+            width: 284px;
+            height: 285px;
+            flex-shrink: 0;
+            top:109px;
+           left: 961px;
+           bottom:630px;
+           right: 195px;
+           }
+           .bottom-horizontal-line{   
+            position:absolute;
+            top: 868px;
+            bottom: 152px;
+            background: #ACADAC;
+            width: 1439.019px;
+            height: 1px;
+        }
+        #left-arrow{
+          position:absolute;
+          top:897px;
+          left:32px;
+          }
+          
+          #right-arrow{
+          position:absolute;
+          top:898px;
+          left:1316px;
+          
+          }

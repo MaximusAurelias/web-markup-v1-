@@ -1,0 +1,267 @@
+body {
+    background-color: #5B6E3A;
+    font-family: 'Sofia Sans',sans-serif;
+    color: #FFF;
+}
+#navbar {
+
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    flex-shrink: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    overflow: hidden;
+    
+    }
+    
+    li a {
+        position: relative;
+        top:48px;
+        float: right;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none; 
+        color: #FFF;
+        font-size: 20px;
+        
+    }
+    
+    .line-under-navbar{
+        width: 1445px;
+        height: 1px;
+        flex-shrink: 0;
+        background: #818181;
+        position:absolute;
+        bottom: 921px;
+        top: 102px;
+    }
+    
+    .text-background{
+        position: absolute;
+        left: 242px;
+        bottom: 157px;
+        background: #2D371D;
+        width: 1198px;
+        height: 764px;
+        top: 103px;
+       }
+
+       .horizontal-line{
+        position: absolute;
+        width: 6px;
+        height: 835px;
+        background: white; 
+        left: 235px;
+        right: 103px;
+        top: 102px;
+    }
+
+    .pillar{
+        position: absolute;
+        width: 96px;
+        height: 649px;
+        flex-shrink: 0;
+        background: #1E1E1E;
+        top: 111px;
+        left: 132px;
+        bottom:264px;
+        }
+
+        .text-background{
+            position: absolute;
+            left: 242px;
+            bottom: 157px;
+            background: #2D371D;
+            width: 1198px;
+            height: 764px;
+            top: 103px;
+           }
+
+
+
+
+           #LandMarks{
+            position: absolute;
+            top:2px;
+            left:116px;
+            bottom:849px;
+            right:96px;
+            font-size: 36px;
+            font-style: normal;
+           font-weight: 600;
+           line-height: normal;
+           color: #FFF;
+
+            
+           }
+
+           #fishermans-wife-heading{
+            position:absolute;
+            top:211px;
+            left:42px;
+            bottom:762px;
+            width: 200px;
+            height: 51px;
+            flex-shrink: 0;
+            color: #FFF;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            }
+            
+            #lighthouse-heading{
+            position:absolute;
+            top:431px;
+            left: 45px;
+            right: 1189px;
+            bottom: 519px;
+            width: 189px;
+            height: 74px;
+            flex-shrink: 0;
+            color: #FFF;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            }
+            
+            #ladyoflordes-heading{
+                position:absolute;
+                top: 644px;
+                left: 140px;
+                bottom: 329px;
+                right: 1198px;
+                color: #FFF;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            }
+
+            .fishermanswife-info{
+                position:absolute;
+                top: 91px;
+                left: 22px;
+                bottom:455px;
+                width: 670px;
+                height: 218px;
+                flex-shrink: 0;
+            }
+            
+            .Lighthouse-info{
+                position:absolute;
+                top:336px;
+                left: 22px;
+                bottom: 393px;
+                width: 669px;
+                height: 190px;
+                flex-shrink: 0;
+            }
+            
+            
+            .ladyoflourdes-info{
+                position:absolute;
+                top:570px;
+                left:22px;
+                bottom: 18px;
+                width: 667px;
+                height: 175px;
+                flex-shrink: 0;
+            }
+            
+           
+           
+            #f-wife1{
+                position:absolute;
+                width: 198.576px;
+                height: 187px;
+                flex-shrink: 0;
+                top:68px;
+                left:727px;
+                bottom:508px;
+                right: 272px; 
+
+            }
+
+            #f-wife2{
+                position:absolute;
+                width: 191px;
+                height: 135px;
+                flex-shrink: 0;
+                top:120px;
+                left: 926px;
+                bottom: 508px;
+                right: 81px;
+
+            }
+
+            #lighthouse1{
+                position:absolute;
+                width: 183.705px;
+                 height: 187px;
+               flex-shrink: 0;
+               top:282px;
+               left:792px;
+               right:222px;
+               bottom:294px;
+               
+               
+            }
+
+            #lighthouse2{
+                position:absolute;
+                width: 138px;
+                height: 155px;
+                flex-shrink: 0;
+                top:308px;
+                left: 976px;
+               bottom:294px; 
+               right:223px;
+            }
+
+            #church1{
+                position:absolute;
+                width: 226px;
+                height: 187px;
+                flex-shrink: 0;
+                top: 550px;
+                left: 978px;
+               bottom:294px; 
+               right:223px;
+            }
+
+            #church2{
+                position:absolute;
+                width: 195px;
+                height: 203px;
+                flex-shrink: 0;
+                top:550px;
+                left: 769px;
+                bottom: 178px;
+                right:203px;
+            }
+
+            .bottom-horizontal-line{   
+                position:absolute;
+                top: 868px;
+                bottom: 152px;
+                background: #ACADAC;
+                width: 1439.019px;
+                height: 1px;
+            }
+            #left-arrow{
+                position:absolute;
+                top:897px;
+                left:32px;
+                }
+                
+                #right-arrow{
+                position:absolute;
+                top:898px;
+                left:1316px;
+                
+                }

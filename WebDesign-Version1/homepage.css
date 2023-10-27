@@ -1,0 +1,134 @@
+body {
+    background-color: #5B6E3A;
+    font-family: 'Sofia Sans',sans-serif;
+    color: #FFF;
+}
+
+
+#navbar {
+
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+flex-shrink: 0;
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: inline;
+overflow: hidden;
+
+
+}
+
+li a {
+    position: relative;
+    top:48px;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+    color: #FFF;
+    font-size: 20px;
+    
+    
+}
+
+.line-under-navbar{
+    width: 1445px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #818181;
+    position:absolute;
+    bottom: 921px;
+    top: 102px;
+}
+
+.horizontal-line{
+    width: 6px;
+    height: 835px;
+    background: #ACADAC;
+    left: 235px;
+    right: 103px;
+    top: 102px;
+    position: absolute;
+
+}
+
+.title-side{
+    position: absolute;
+    left: 122px;
+    top: 217px;
+    border: 10px solid white;
+    padding-top: 31px;
+    padding-left:33px;
+    padding-right: 58px;
+    padding-bottom:24px;
+    background-color: #2D371D;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.picture-side{
+ position: absolute;
+ left: 479px;
+ bottom: 156px;
+ background: #2D371D;
+ width: 953px;
+ height: 765px;
+ top: 103px;
+}
+
+img{
+    width: 332px;
+height: 258px;
+flex-shrink: 0;
+border-radius: 15px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#f-wife-image{
+position:absolute;
+top:321px;
+left:379px;
+bottom: 186px;
+}
+
+#town-painting{
+    position: absolute;
+    top:50px;
+    left:568px;
+    bottom:457px;
+
+}
+
+#musuem-sign{
+position:absolute;
+top:507px;
+left:607px;
+
+
+}
+
+
+.bottom-horizontal-line{   
+    position:absolute;
+    top: 868px;
+    bottom: 152px;
+    background: #ACADAC;
+    width: 1439.019px;
+    height: 1px;
+}
+   
+#arrow-image{
+    position:absolute;
+    top:661px;
+    left:285px;
+    right:60px;
+    bottom:668px;
+
+    width: 89px;
+    height: 79px;
+}
+
+

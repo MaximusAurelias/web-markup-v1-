@@ -1,0 +1,204 @@
+body {
+    background: #5B6E3A;
+    font-family: 'Sofia-Sans',sans-serif;
+    color: #FFF;
+}
+
+
+#navbar {
+
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+flex-shrink: 0;
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: inline;
+overflow: hidden;
+
+}
+
+li a {
+    position: relative;
+    top:48px;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+    color: #FFF;
+    font-size: 20px;
+    
+}
+
+.line-under-navbar{
+    width: 1445px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #818181;
+    position:absolute;
+    bottom: 921px;
+    top: 102px;
+}
+
+.text-background{
+    position: absolute;
+    left: 242px;
+    bottom: 157px;
+    background: #2D371D;
+    width: 1198px;
+    height: 764px;
+    top: 103px;
+   }
+
+   #History{
+    position: absolute;
+    top:2px;
+    left:116px;
+    bottom:849px;
+    right:956px;
+    font-size: 36px;
+   font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: white;
+
+   
+   }
+
+   .horizontal-line{
+    position: absolute;
+    width: 6px;
+    height: 835px;
+    background: white; 
+    left: 235px;
+    right: 103px;
+    top: 102px;
+
+}
+#The-Netherlands{
+position:absolute;
+top:211px;
+left:42px;
+bottom:762px;
+width: 200px;
+height: 51px;
+flex-shrink: 0;
+color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-family: 'Open Sans',sans-serif;
+}
+
+#eighteenth-century{
+position:absolute;
+top:401px;
+left: 45px;
+right: 1189px;
+bottom: 519px;
+width: 189px;
+height: 74px;
+flex-shrink: 0;
+color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-family: 'Open Sans',sans-serif;
+}
+
+#Scheveningen{
+    position:absolute;
+    top: 644px;
+    left: 42px;
+    bottom: 329px;
+    right: 1198px;
+    color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-family: 'Open Sans',sans-serif;
+}
+
+.pillar{
+position: absolute;
+width: 96px;
+height: 649px;
+flex-shrink: 0;
+background: #1E1E1E;
+top: 111px;
+left: 132px;
+bottom:264px;
+}
+
+.nl-history{
+    position:absolute;
+    top: 91px;
+    left: 127px;
+    bottom:488px;
+    width: 949px;
+    height: 185px;
+    flex-shrink: 0;
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+     line-height: normal;
+     font-size: 16px;
+}
+
+.eightheenth-century-history{
+    position:absolute;
+    top:300px;
+    left: 126px;
+    bottom: 232px;
+    width: 947px;
+    height: 232px;
+    flex-shrink: 0;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+     line-height: normal;
+}
+
+
+.scheveningen-history{
+    position:absolute;
+    top:550px;
+    left:127px;
+    bottom: 75px;
+    width: 944px;
+    height: 268px;
+    flex-shrink: 0;
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 16px;
+}
+
+
+.bottom-horizontal-line{   
+    position:absolute;
+    top: 868px;
+    bottom: 152px;
+    background: #ACADAC;
+    width: 1439.019px;
+    height: 1px;
+}
+
+#left-arrow{
+position:absolute;
+top:897px;
+left:32px;
+}
+
+#right-arrow{
+position:absolute;
+top:898px;
+left:1316px;
+
+}
